@@ -1,8 +1,8 @@
 ## Olá, sou a Rosemeire Pereira, QA e utilizo meu repositório para guardar projetos de estudos pessoais!
 <div align="center">
   <a href="https://github.com/rosemeirepa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosemeirepa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemeirepa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosemeirepa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosemeirepa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
 
